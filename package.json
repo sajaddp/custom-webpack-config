@@ -23,7 +23,7 @@
     "img-loader": "^2.0.0",
     "jshint": "^2.9.5",
     "jshint-loader": "^0.8.4",
-    "node-notifier": "^5.1.2",
+    "node-notifier": ">=8.0.1",
     "node-sass": "^4.5.3",
     "purify-css": "^1.2.5",
     "purifycss-webpack": "^0.7.0",
